@@ -1,4 +1,3 @@
-# Bureau International des Poids et Mesures (BIPM)
 The [BIPM](https://www.bipm.org) is the intergovernmental organisation established by the [Metre Convention (1875)](https://www.bipm.org/en/metre-convention), home of the International System of Units (SI) and Coordinated Universal Time (UTC).
 
 This GitHub account hosts open-source ontologies, software, and reference data developed by the BIPM in collaboration with the CIPM [Consultative Committees](https://www.bipm.org/en/committees/cc) and the [Forum on Metrology and Digitalization](https://www.bipm.org/en/committees/fo/forum-md).
